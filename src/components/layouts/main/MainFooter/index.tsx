@@ -1,6 +1,6 @@
-import { WithChildrenProps } from "types/generalTypes";
 import React from "react";
 import * as S from "./styles";
+import { WithChildrenProps } from "@/types/generalTypes";
 
 interface MainFooterProps extends WithChildrenProps {
   isTwoColumnsLayout: boolean;
