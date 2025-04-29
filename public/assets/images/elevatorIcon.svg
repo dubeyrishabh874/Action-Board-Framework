@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 243.13 374.43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #dc0000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 7.43px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g id="Ahead_Info">
+      <g>
+        <polygon class="cls-1" points="98.08 3.72 239.42 85.32 239.36 316.08 144.85 370.72 3.72 288.73 3.85 58.13 98.08 3.72"/>
+        <polygon class="cls-1" points="98.08 3.72 239.42 85.32 239.36 316.08 144.85 370.72 3.72 288.73 3.85 58.13 98.08 3.72"/>
+        <polyline class="cls-1" points="3.85 58.13 145.22 139.74 239.42 85.32"/>
+        <line class="cls-1" x1="145.22" y1="139.74" x2="144.85" y2="370.71"/>
+        <polyline class="cls-1" points="98.08 139.74 98.08 234.71 215.86 302.71"/>
+        <line class="cls-1" x1="27.41" y1="275.5" x2="98.08" y2="234.71"/>
+        <polyline class="cls-1" points="3.83 85.37 145.19 166.93 239.36 112.55"/>
+        <polyline class="cls-1" points="239.36 289.01 144.93 343.51 6.07 263.2"/>
+        <polyline class="cls-1" points="239.36 289.21 98.15 207.51 7.05 260.1"/>
+      </g>
+    </g>
+  </g>
+</svg>
