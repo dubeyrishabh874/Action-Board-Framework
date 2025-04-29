@@ -1,4 +1,4 @@
-import { BASE_COLORS, LAYOUT, media } from "config/theme/constants";
+import { BASE_COLORS, LAYOUT, media } from "@/config/theme/constants";
 import { Layout } from "antd";
 import styled, { css } from "styled-components";
 
