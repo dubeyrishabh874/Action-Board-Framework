@@ -25,7 +25,7 @@ const VideoPlayerMainScreen = () => {
       <div
         style={{
           height: "calc(100vh - 232px)",
-          minHeight: 356,
+          minHeight: "fit-content",
           transition: "all 0.3s ease-in-out",
         }}
       >
